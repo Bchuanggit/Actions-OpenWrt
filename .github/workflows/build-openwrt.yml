@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: RPI4V1
+name: x86test1
 
 on:
   release:

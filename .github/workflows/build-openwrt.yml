@@ -6,12 +6,11 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name:MT7612UX
+name: MT7612U
 
 on:
   release:
     types: published
-  push:
     branches:
       - master
     paths:

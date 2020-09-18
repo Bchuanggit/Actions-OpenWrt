@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: test(192.168.2.2$vssr)
+name: test2.2v1
 
 on:
   release:
